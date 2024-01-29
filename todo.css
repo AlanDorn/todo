@@ -1,0 +1,14 @@
+button {
+    background-color: rgb(85, 20, 175);
+    color: rgb(224, 220, 215);
+    border: none;
+    border-radius: 15%;
+}
+input {
+    background-color: rgb(20, 222, 27);
+    color: rgb(124, 4, 14)
+}
+body{
+    background-color: yellow;
+    
+}
